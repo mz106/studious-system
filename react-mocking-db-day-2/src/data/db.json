@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "desc": "Awesome Product",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "desc": "A cool product",
+      "price": 15
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "desc": "A cool product",
+      "price": 8
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "desc": "A cool product",
+      "price": 1
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "desc": "A cool product",
+      "price": 30
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "desc": "A cool product",
+      "price": 15
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "desc": "A cool product",
+      "price": 11
+    }
+  ]
+}
